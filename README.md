@@ -33,15 +33,12 @@ python main_wbs.py --csv example_wbs.csv --out wbs.png --title "Project Title"
 
 
 📊 Input Format
+
 WBS (example_wbs.csv)
-ID	Title
-1	Main Work Package
-1.1	Sub Package
-1.1.1	Detailed Task
+ID,	Title, ...
+
 Gantt & Milestones (example_gantt.csv)
-ID	Task	Start	Finish	Group	Milestone	Dependencies
-1	Kickoff	2026-01-01	2026-01-02	Phase A	TRUE	
-2	Design	2026-01-03	2026-02-15	Phase B	FALSE	1
+ID,	Task,	Start,	Finish,	Group,	Milestone,	Dependencies
 
 📊 Features
 📆 Gantt Chart – timeline visualization of project tasks.
