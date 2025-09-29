@@ -1,0 +1,8 @@
+﻿WBS_ID,Task_Name,,
+1,"Main Package 1",,
+1.1,"Work Package 1.1",,
+1.1.1,"Subtask 1.1.1",,
+2,"Main Package 2",,
+2.1,"Work Package 2.1",,
+2.1.1,"Subtask 2.1.1",,
+...

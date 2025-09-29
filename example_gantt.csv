@@ -1,0 +1,8 @@
+﻿Id,Task,Duration,Start,Finish,Group,Progress,Milestone,Dependencies
+M1,"Milestone 1",1,2026-01-01,2026-01-01,Milestone,0,TRUE,
+A11,"Task name A11",3.2,2026-01-01,2026-01-04,"Group 1",0,FALSE,
+M2,"Milestone 2",1,2026-01-26,2026-01-26,Milestone,0,TRUE,
+A12,"Task name A12",7.8,2026-01-26,2026-02-03,"Group 1",0,FALSE,A14
+M3,"Milestone 3",1,2026-02-03,2026-02-03,Milestone,0,TRUE,
+B11,"Task name B11",3.2,2026-01-01,2026-01-04,"Group 2",0,FALSE,
+...
